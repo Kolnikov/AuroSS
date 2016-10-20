@@ -1,0 +1,2 @@
+# AuroSS
+Auroville resources
